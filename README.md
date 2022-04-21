@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/EZZIBARIOUMAYMA/Pipelines_Project/_apis/build/status/oumaimaEzzibari.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/EZZIBARIOUMAYMA/Pipelines_Project/_build/latest?definitionId=6&branchName=master)
-
+[![Build Status](https://dev.azure.com/EZZIBARIOUMAYMA/New_Project/_apis/build/status/oumaimaEzzibari.ContosoAir?branchName=master)](https://dev.azure.com/EZZIBARIOUMAYMA/New_Project/_build/latest?definitionId=8&branchName=master)
 
 
 
